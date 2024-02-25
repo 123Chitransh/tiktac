@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
 }
-
+.background{
+    background: linear-gradient(180deg,#576cbc 0% , #132a53);
+}
 .gameContainer{
     /* margin-top: 100px; */
     margin: 70px;
