@@ -59,6 +59,26 @@
    height: 200px;
    scale: 0;
 }
+@media screen and (max-width:400px) {
+    .imgbox{
+        width: 100px;
+        height: 100px;
+     }
+     .h1{
+        font-size: 30px;
+    }
+    .gameInfo{
+        margin-left: 0;
+    }
+    .info{
+        font-size: 20px;
+        color:  rgb(167, 52, 167);;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .container{
+        margin-right: 40px;
+    }
+}
 
 /* utility classes */
 .br-0{
